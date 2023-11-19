@@ -1,0 +1,12 @@
+D:\Gleb\Documents\Projects\VisualStudio\LimitedTime\LimitedTime\bin\Debug\LimitedTime.exe.config
+D:\Gleb\Documents\Projects\VisualStudio\LimitedTime\LimitedTime\bin\Debug\LimitedTime.exe
+D:\Gleb\Documents\Projects\VisualStudio\LimitedTime\LimitedTime\bin\Debug\LimitedTime.pdb
+D:\Gleb\Documents\Projects\VisualStudio\LimitedTime\LimitedTime\obj\Debug\LimitedTime.csproj.AssemblyReference.cache
+D:\Gleb\Documents\Projects\VisualStudio\LimitedTime\LimitedTime\obj\Debug\LimitedTime.csproj.SuggestedBindingRedirects.cache
+D:\Gleb\Documents\Projects\VisualStudio\LimitedTime\LimitedTime\obj\Debug\LimitedTime.Main.resources
+D:\Gleb\Documents\Projects\VisualStudio\LimitedTime\LimitedTime\obj\Debug\LimitedTime.Properties.Resources.resources
+D:\Gleb\Documents\Projects\VisualStudio\LimitedTime\LimitedTime\obj\Debug\LimitedTime.csproj.GenerateResource.cache
+D:\Gleb\Documents\Projects\VisualStudio\LimitedTime\LimitedTime\obj\Debug\LimitedTime.csproj.CoreCompileInputs.cache
+D:\Gleb\Documents\Projects\VisualStudio\LimitedTime\LimitedTime\obj\Debug\LimitedTime.exe
+D:\Gleb\Documents\Projects\VisualStudio\LimitedTime\LimitedTime\obj\Debug\LimitedTime.pdb
+D:\Gleb\Documents\Projects\VisualStudio\LimitedTime\LimitedTime\obj\Debug\LimitedTime.Info.resources
